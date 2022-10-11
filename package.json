@@ -8,7 +8,7 @@
         "dev": "nodemon app"
     },
     "type": "module",
-    "author": "JUAN GABREL ALMEIDA MARTINEZ",
+    "author": "Faustino Molina Becerra",
     "license": "ISC",
     "dependencies": {
         "bcryptjs": "^2.4.3",
